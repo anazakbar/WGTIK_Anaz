@@ -8,6 +8,9 @@ IF-45-INT
 Basic skills:
 
 -Canva
+
 -Mathematic
+
 -English
+
 -Indonesia
